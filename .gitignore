@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+outputs/
+run_outputs/
+results/
+figures/
+logs/
+report/
+data/
+*.h5ad
+*.npy
+*.npz
