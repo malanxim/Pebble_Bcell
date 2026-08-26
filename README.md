@@ -1,8 +1,13 @@
 # OneK1K B-cell aging analysis
 
-This repository contains the analysis code used to study age-associated changes
-in B cells in the OneK1K cohort and to generate the corresponding manuscript
-figures. Data, generated figures, and result tables are not included.
+This repository contains the core analysis and figure-generation code for
+`OneK1K_B_cell_aging_reorganized`, a study of age-associated changes across
+B-cell subtypes in the OneK1K cohort. The main analyses include data quality
+control, donor-by-subtype pseudobulk aggregation, B-cell composition analysis,
+age-associated differential expression, Hallmark pathway enrichment,
+transcription-factor analysis, internal validation, complementary age-group
+analyses, and manuscript figure generation. Data, generated figures, and result
+tables are not included.
 
 ## Code overview
 
